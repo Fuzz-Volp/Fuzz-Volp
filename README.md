@@ -2,7 +2,7 @@
 <h1>Hi there 👋, I'm Fuzzy Volpitta </h1>       
 </div>
 
-I am a Software engineer with a proven ability to adapt and collaborate in rapidly changing work environments and team compositions. Born and raised in Bellevue Washington, a stone's throw away from a little company called Microsoft. I've always been fascinated with technology and how it can change the world!
+I am a Software engineer with a proven ability to adapt and collaborate in rapidly changing work environments and team compositions. Born and raised in Texas, I've always had a mind for building things and once I started learning to build with code there was no stopping it!
 
  Proud graduate of General Assembly's Software Engineering Immersive.
 
