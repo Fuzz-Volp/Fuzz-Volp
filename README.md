@@ -3,7 +3,7 @@
 </div>
 
 <div id='badges' align='center'>
-  <a href='https://www.linkedin.com/in/justin-stowe/'>
+  <a href='https://www.linkedin.com/in/fuzzvolpitta/'>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href='https://justinstowe.github.io/JustinStowe/'>
@@ -33,9 +33,9 @@ Proud graduate of General Assembly's Software Engineering Immersive.
 
 <div id='stats' align='center'>
 
-<div class= "badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity= "justin-stowe-software-engineer" data-version='v1'>
+<div class= "badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity= "fuzzy-volpitta-software-engineer" data-version='v1'>
 
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="justin-stowe-software-engineer" data-version="v1">
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuzzy-volpitta-software-engineer" data-version="v1">
  </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustinStowe&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -44,7 +44,7 @@ Proud graduate of General Assembly's Software Engineering Immersive.
 </div>
 <div id='most-used-languages' align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinStowe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuzz-Volp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -61,7 +61,6 @@ Proud graduate of General Assembly's Software Engineering Immersive.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50" background='white' />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS Logo" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="Google Logo" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
