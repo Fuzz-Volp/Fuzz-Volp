@@ -38,8 +38,8 @@ Proud graduate of General Assembly's Software Engineering Immersive.
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuzzy-volpitta-software-engineer" data-version="v1">
  </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustinStowe&theme=dark&background=000000)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinStowe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fuzz-Volp&theme=dark&background=000000)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fuzz-Volp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 </div>
 <div id='most-used-languages' align='center'>
