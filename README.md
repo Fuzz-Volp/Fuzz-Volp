@@ -10,7 +10,7 @@
   <img src='https://www.nicepng.com/png/detail/111-1112693_portfolio-my-portfolio.png' width='100' height='30'></a>
 </div>
 <div id='views' align='center'>
-  <img src='https://komarev.com/ghpvc/?username=JustinStowe&style=flat-square&color=blue' alt="Profile Views">
+  <img src='https://komarev.com/ghpvc/?username=Fuzz-Volp&style=flat-square&color=blue' alt="Profile Views">
 </div>
 
 ---
@@ -19,8 +19,7 @@
 
   ### :man_technologist: About Me :
 
-- :telescope: I have successfully completed General Assembly's Software Engineering Program, earning a certificate that validates my expertise in adapting to dynamic work environments and fostering productive collaborations within diverse teams. My professional experience spans across roles as a front-end engineer, back-end engineer, and full-stack engineer. Having been raised in the vicinity of Salt Lake City, Utah, I have long held a profound fascination for technology and its potential to create significant global impact.
-
+- :telescope: I have successfully completed General Assembly's Software Engineering Program, earning a certificate that validates my expertise in adapting to dynamic work environments and fostering productive collaborations within diverse teams. My professional experience spans across roles as a front-end engineer, back-end engineer, and full-stack engineer. I'm originally from Texas, but I'm found over the pond from Seattle, Washington in Port Orchard. I'm passionate about building tools and application that make 
 </div>
 
 ---
