@@ -6,7 +6,7 @@
   <a href='https://www.linkedin.com/in/fuzzvolpitta/'>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href='https://justinstowe.github.io/JustinStowe/'>
+  <a href='https://portfolio-65c42.web.app/'>
   <img src='https://www.nicepng.com/png/detail/111-1112693_portfolio-my-portfolio.png' width='100' height='30'></a>
 </div>
 <div id='views' align='center'>
