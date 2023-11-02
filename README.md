@@ -19,7 +19,7 @@
 
   ### :man_technologist: About Me :
 
-- :telescope: I have successfully completed General Assembly's Software Engineering Program, earning a certificate that validates my expertise in adapting to dynamic work environments and fostering productive collaborations within diverse teams. My professional experience spans across roles as a front-end engineer, back-end engineer, and full-stack engineer. I'm originally from Texas, but I'm found over the pond from Seattle, Washington in Port Orchard. I'm passionate about building tools and application that make 
+- :telescope: I have successfully completed General Assembly's Software Engineering Program, earning a certificate that validates my expertise in adapting to dynamic work environments and fostering productive collaborations within diverse teams. My professional experience spans across roles as a front-end engineer, back-end engineer, and full-stack engineer. I'm originally from Texas, but I'm found over the pond from Seattle, Washington in Port Orchard. I'm passionate about building robust API's and user intutive interfaces! 
 </div>
 
 ---
